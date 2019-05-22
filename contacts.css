@@ -4,6 +4,7 @@ body{
 	font-family: helvetica, sans-serif, arial;
 	line-height: 1.5;
   background: url('back2.jpg') no-repeat;
+	background-size: cover;
 }
 
 header{
