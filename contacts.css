@@ -71,6 +71,7 @@ section{
 }
 
 .style{
+    width: 100%;
     margin-left: 43%;
     min-height: 570px;
 }
