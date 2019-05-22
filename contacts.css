@@ -3,14 +3,10 @@ body{
 	padding: 0px;
 	font-family: helvetica, sans-serif, arial;
 	line-height: 1.5;
-  background: url('back2.jpg') no-repeat;
-	background-size: cover;
+  background-image: url('back2.jpg') no-repeat;
+  background-size: cover;
 }
 
-header{
-	background:#35424a;
-	min-height: 80px;
-}
 
 .container{
   width:100%;
@@ -69,10 +65,15 @@ header a:hover{
 }
 
 
+section{
+  background: #c3ccdb;
+  border-top: 5px orange solid;
+  border-bottom: 5px orange solid;
+
+}
+
 .style{
     margin-left: 43%;
-    margin-top: 5%;
-    margin-bottom: 5%;
     min-height: 570px;
 }
 
